@@ -7,6 +7,22 @@
 # BlueJ files
 *.ctxt
 
+# IntelliJ IDEA files
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# Gradle files
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
